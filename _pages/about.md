@@ -2,13 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: Bangkok Metropolitan Area
+description: Archaeologist | Bangkok Metropolitan Area
 
 profile:
   align: right
   image: chaninat.jpeg
   address: >
-    <p>Archaeologist at Faculty of Archaeology</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
